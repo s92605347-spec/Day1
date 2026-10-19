@@ -1,0 +1,15 @@
+marks = [70, 80, 90, 60]
+print("Marks:", marks)
+print("Highest Marks:", max(marks))
+print("Lowest Marks:", min(marks))
+subjects = ("Python", "AI", "Math")
+print("Subjects:", subjects)
+numbers = {1, 2, 3, 3, 4}
+print("Unique Numbers:", numbers)
+student = {
+    "name": "Ali",
+    "age": 20,
+    "marks": 85
+}
+print("Student:", student)
+print("Student Name:", student["name"])
