@@ -1,0 +1,7 @@
+def calculate_average(marks):
+    return sum(marks) / len(marks)
+marks = [70, 80, 90, 60]
+average = calculate_average(marks)
+print("Average Marks:", average)
+print("Highest Marks:", max(marks))
+print("Lowest Marks:", min(marks))
