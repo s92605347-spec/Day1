@@ -1,0 +1,12 @@
+name = "Amna"
+age = 19
+marks = 85.5
+is_student = True
+print("Name:", name)
+print("Age:", age)
+print("Marks:", marks)
+print("Is Student:", is_student)
+num = input("Enter a number: ")
+num = int(num)
+print("Number:", num)
+print("Number after adding 5:", num + 5)
